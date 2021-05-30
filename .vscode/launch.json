@@ -1,0 +1,8 @@
+{
+    "resolveSourceMapLocations": [
+    "${workspaceFolder}/**",
+    "!**/node_modules/**"
+],
+
+
+}

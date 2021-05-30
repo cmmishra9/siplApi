@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "baseUrl": "/",
+    "paths": {
+      "@components/*": ["./vueapp/components/*"],
+      "@layouts/*": ["./vueapp/layouts/*"],
+      "@pages/*": ["./vueapp/pages/*"],
+      "@router/*": ["./vueapp/router/*"],
+      "@store/*": ["./vueapp/store/*"],
+
+    }
+  }
+}
